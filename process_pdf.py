@@ -12,7 +12,7 @@ def process_and_print(filepath, start_page, end_page):
 
   for pagenum in range(start_page, end_page):
     page = pdf[pagenum - 1]
-    page = re.sub("\.\.\.\.+", "", page)
+    page = re.sub("\.{4,}", "", page)
     page = re.sub("\d+\n", "\n", page)
     page = re.sub("^(\s*)", replacer, page, flags=re.MULTILINE)
     print(page)
