@@ -1,0 +1,49 @@
+- Contents
+- About
+- Chapter 1: Getting started with Git  
+  - [ ] Section 1.1: Create your ﬁrst repository, then add and commit ﬁles  
+  - [ ] Section 1.2: Clone a repository  
+  - [ ] Section 1.3: Sharing code  
+  - [ ] Section 1.4: Setting your user name and email  
+  - [ ] Section 1.5: Setting up the upstream remote  
+  - [ ] Section 1.6: Learning about a command  
+  - [ ] Section 1.7: Set up SSH for Git  
+  - [ ] Section 1.8: Git Installation
+- Chapter 2: Browsing the history  
+  - [ ] Section 2.1: "Regular" Git Log  
+  - [ ] Section 2.2: Prettier log  
+  - [ ] Section 2.3: Colorize Logs  
+  - [ ] Section 2.4: Oneline log  
+  - [ ] Section 2.5: Log search  
+  - [ ] Section 2.6: List all contributions grouped by author name  
+  - [ ] Section 2.7: Searching commit string in git log  
+  - [ ] Section 2.8: Log for a range of lines within a ﬁle  
+  - [ ] Section 2.9: Filter logs  
+  - [ ] Section 2.10: Log with changes inline  
+  - [ ] Section 2.11: Log showing commited ﬁles  
+  - [ ] Section 2.12: Show the contents of a single commit  
+  - [ ] Section 2.13: Git Log Between Two Branches  
+  - [ ] Section 2.14: One line showing commiter name and time since commit
+- Chapter 3: Working with Remotes  
+  - [ ] Section 3.1: Deleting a Remote Branch  
+  - [ ] Section 3.2: Changing Git Remote URL  
+  - [ ] Section 3.3: List Existing Remotes  
+  - [ ] Section 3.4: Removing Local Copies of Deleted Remote Branches  
+  - [ ] Section 3.5: Updating from Upstream Repository  
+  - [ ] Section 3.6: ls-remote  
+  - [ ] Section 3.7: Adding a New Remote Repository  
+  - [ ] Section 3.8: Set Upstream on a New Branch  
+  - [ ] Section 3.9: Getting Started  
+  - [ ] Section 3.10: Renaming a Remote  
+  - [ ] Section 3.11: Show information about a Speciﬁc Remote  
+  - [ ] Section 3.12: Set the URL for a Speciﬁc Remote  
+  - [ ] Section 3.13: Get the URL for a Speciﬁc Remote  
+  - [ ] Section 3.14: Changing a Remote Repository
+- Chapter 4: Staging  
+  - [ ] Section 4.1: Staging All Changes to Files  
+  - [ ] Section 4.2: Unstage a ﬁle that contains changes  
+  - [ ] Section 4.3: Add changes by hunk  
+  - [ ] Section 4.4: Interactive add  
+  - [ ] Section 4.5: Show Staged Changes  
+  - [ ] Section 4.6: Staging A Single File  
+  - [ ]
